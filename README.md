@@ -5,7 +5,7 @@
 
  
 --------------------------------------------------------------------------------------------------------------
-                                  	YouTube Video Downloader User Guide
+                                  		YouTube Video Downloader User Guide
 --------------------------------------------------------------------------------------------------------------
 
 Thank You for Choosing Our Application
@@ -17,7 +17,7 @@ Below, you will find a comprehensive guide to help you navigate and utilize
 the application's features effectively.
 
 --------------------------------------------------------------------------------------------------------------
-                    			HOW TO USE
+                    					HOW TO USE
 --------------------------------------------------------------------------------------------------------------
 
 Downloading Videos (MP4):
@@ -48,7 +48,7 @@ Downloading Videos (MP4):
          - Utilize the Pause, Resume, or Cancel buttons as necessary.
 
 --------------------------------------------------------------------------------------------------------------
-                    			  Converting to MP3:
+                    			  		Converting to MP3:
 --------------------------------------------------------------------------------------------------------------
 
    1. Switch to the MP3 Tab:
@@ -71,7 +71,7 @@ Downloading Videos (MP4):
          - Use the Pause, Resume, or Cancel buttons if needed.
 
 --------------------------------------------------------------------------------------------------------------
-                   			HOW IT WORKS
+                   					HOW IT WORKS
 --------------------------------------------------------------------------------------------------------------
 
    - Enter the YouTube Video Link:
@@ -95,7 +95,7 @@ Downloading Videos (MP4):
              - Cancel - Abort the download.
 
 --------------------------------------------------------------------------------------------------------------
-                  			   KEY FEATURES
+                  			   		KEY FEATURES
 --------------------------------------------------------------------------------------------------------------
 
    - Video Downloads:  
@@ -117,7 +117,7 @@ Downloading Videos (MP4):
          - Displays real-time progress via a progress bar and status updates.
 
 --------------------------------------------------------------------------------------------------------------
-                		               IMPORTANT NOTES
+                		              	 IMPORTANT NOTES
 --------------------------------------------------------------------------------------------------------------
 
    - Supported URLs:  
@@ -134,7 +134,7 @@ Downloading Videos (MP4):
          Partially downloaded files are automatically deleted if the download is canceled.
 
 --------------------------------------------------------------------------------------------------------------
-                  			    	  TROUBLESHOOTING
+                  			    	  	TROUBLESHOOTING
 --------------------------------------------------------------------------------------------------------------
 
    "Invalid URL" Error:
@@ -150,7 +150,7 @@ Downloading Videos (MP4):
          - Restart the application and attempt the download again.
 
 --------------------------------------------------------------------------------------------------------------
-                    			   	SUPPORT
+                    			   		SUPPORT
 --------------------------------------------------------------------------------------------------------------
 
 For additional assistance, please contact us at:
@@ -159,7 +159,7 @@ For additional assistance, please contact us at:
          - Website: https://anas-awad.github.io/Portfolio/
 
 --------------------------------------------------------------------------------------------------------------
-       			      Thank You for Trusting Our Application!
+       			      		Thank You for Trusting Our Application!
 --------------------------------------------------------------------------------------------------------------
 
 We hope the YouTube Video Downloader enhances your experience
