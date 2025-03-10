@@ -1,0 +1,50 @@
+--------------------------------------------------------------------------------------------
+                               About the Developer
+--------------------------------------------------------------------------------------------
+
+Full Name: Anas Awad
+
+Professional Title/Role: Data Analyst
+
+Company/Organization: Orange Business
+
+----------------------------------------------
+                 Professional Biography
+----------------------------------------------
+
+As an enthusiastic and highly qualified Data Analyst, I am seeking a position as a
+Data Analyst at a reputable organization. With certifications in Data Science and
+Data Analysis (CDSP), I am eager to apply my technical skills, positive attitude,
+and commitment to professional growth to contribute to the team and
+organization's success.
+
+With 2 years of experience, I have developed expertise in data analysis, data visualization, 
+and automation, utilizing industry-leading tools and technologies to drive business insights and efficiency.
+
+----------------------------------------------
+           Technical Skills and Expertise
+----------------------------------------------
+
+- Programming Languages: Python, SQL
+- Frameworks & Libraries: pandas, numpy, seaborn, plotly, streamlit, matplotlib, scikit-learn, pyqt5, yt-dlp, BeautifulSoup
+- Tools & Databases: Power BI, MySQL, AccessDB
+
+----------------------------------------------
+              Educational Background
+----------------------------------------------
+
+- **Bachelor's Degree in Communications and Computer Engineering**
+
+----------------------------------------------
+                Contact Information
+----------------------------------------------
+
+- Email: anasawad2598@gmail.com
+- Phone:** (+20) 1114796109
+- Website: https://anas-awad.github.io/Portfolio/
+- GitHub: https://github.com/Anas-Awad
+- LinkedIn: https://www.linkedin.com/in/anas-awad-789bb91b0/
+
+----------------------------------------------
+                 Thank You!
+----------------------------------------------
